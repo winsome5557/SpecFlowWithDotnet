@@ -2,8 +2,6 @@
 
 ## The problem
 
-As at the time of writing (September 2016), the `SpecFlow for Visual Studio 2015` extension does not play well with .NET Core projects.
-
 ## The solution
 
 Wait for the VS extension to support .NET Core projects. In the meantime, I present...
