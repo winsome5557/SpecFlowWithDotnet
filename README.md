@@ -1,7 +1,7 @@
 # SpecFlow.NetCore
 
 ## The problem
-
+  
 ## The solution
 
 Wait for the VS extension to support .NET Core projects. In the meantime, I present...
